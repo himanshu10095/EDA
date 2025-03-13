@@ -1,2 +1,2 @@
-# EDA
-Data analysis project
+# Exploratory Data analysis project
+
